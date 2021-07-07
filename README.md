@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Grade</h1>
-<h3 align="center">A passionate Software Engineering in Germany</h3>
+<h3 align="center">A passionate Software Engineer in Germany</h3>
 
 - 🔭 I’m currently working at [Cargonexx](https://www.cargonexx.com/de)
 
