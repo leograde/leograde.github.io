@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Grade</h1>
-<h3 align="center">A passionate Software Engineer in Germany</h3>
+<h3 align="center">A senior Software Engineer located in Germany</h3>
 
-- 🔭 I’m currently working at [Cargonexx](https://www.cargonexx.com/de)
+- 🔭 I’m currently working at [quantilope](https://www.quantilope.com)
 
 - 🌱 I’m currently learning **DDD, kotlin and spring boot**
 
