@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **DDD, kotlin and spring boot**
 
-- 💬 Ask me about **react, nodejs, nestjs, software architecture, clean code, aws lambda, aws cdk**
+- 💬 Ask me about **react, nodejs, nestjs, software architecture, clean architecture, DDD, aws lambda, aws cdk**
+
+- 📚 Currently reading: **team topologies, empowered, building micro-frontends** 
 
 
 <h3 align="left">Languages and Tools:</h3>
