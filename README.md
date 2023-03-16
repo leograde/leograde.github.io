@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [quantilope](https://www.quantilope.com)
 
-- 🌱 I’m currently learning **DDD, kotlin and spring boot**
+- 🌱 I’m currently learning **nextjs, supabase, K8s**
 
 - 💬 Ask me about **react, nodejs, nestjs, software architecture, clean architecture, DDD, aws lambda, aws cdk**
 
