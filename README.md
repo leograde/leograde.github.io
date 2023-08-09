@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Grade</h1>
-<h3 align="center">A senior Software Engineer located in Germany</h3>
+<h3 align="center">Senior Software Engineer at [numa](https://numastays.com/)</h3>
 
-- 🔭 I’m currently working at [quantilope](https://www.quantilope.com)
-
-- 🌱 I’m currently learning **nextjs, supabase, K8s**
-
-- 💬 Ask me about **react, nodejs, nestjs, software architecture, clean architecture, DDD, aws lambda, aws cdk**
+- 💬 Ask me about **react, nextjs, nodejs, nestjs, software architecture, clean architecture, DDD, aws lambda, aws cdk**
 
 - 📚 Currently reading: **team topologies, empowered, building micro-frontends** 
 
