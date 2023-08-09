@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Grade</h1>
-<h3 align="center">Senior Software Engineer at [numa](https://numastays.com/)</h3>
+Senior Software Engineer at [numa](https://numastays.com/)
 
 - 💬 Ask me about **react, nextjs, nodejs, nestjs, software architecture, clean architecture, DDD, aws lambda, aws cdk**
 
